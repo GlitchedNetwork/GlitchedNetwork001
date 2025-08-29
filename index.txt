@@ -1,5 +1,6 @@
 {
   "Bike",
+  "Cupid Shuffle",
   "Ride The Biker",
   "BSB",
   "My Code",
