@@ -1,5 +1,6 @@
 {
   "Bike",
+  "Good Time",
   "Cupid Shuffle",
   "Ride The Biker",
   "BSB",
